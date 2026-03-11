@@ -1,6 +1,4 @@
-# emotion-detection
-
-# 🎭 Real-Time Emotion Detection
+#  Real-Time Emotion Detection
 
 A real-time facial emotion detection app built with **Python**, **OpenCV**, and **DeepFace** — featuring a polished live UI with color-coded emotions, a sidebar overlay, confidence bars, and session analytics.
 
@@ -19,7 +17,7 @@ A real-time facial emotion detection app built with **Python**, **OpenCV**, and 
 
 ---
 
-## 🎭 Detected Emotions
+##  Detected Emotions
 
 | Emotion   | Color   |
 |-----------|---------|
